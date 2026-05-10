@@ -1,0 +1,12 @@
+{
+  "name": "ABC Clothing",
+  "description": "Modern, premium fashion brand for Pakistan-based streetwear and trendy fashion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "e-commerce",
+    "ai-recommendations",
+    "admin-dashboard"
+  ]
+}
